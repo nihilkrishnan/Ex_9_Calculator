@@ -23,8 +23,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 
 ## Program to print the text “calculator operation”.
-## Developed by: KISHORE M
-## Registeration Number : 212221043003
+## Developed by: Nihil KK
+## Registeration Number : 212221223003
 
 
 
